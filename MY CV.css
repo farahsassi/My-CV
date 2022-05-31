@@ -188,14 +188,14 @@ color: #081921;
     position: relative;
     width:100%;
     display: grid;
-    grid-template-columns:150px 1fr ;
+    grid-template-columns:500px 1fr ;
     justify-content: center;
     align-items: center ;
 }
 .skills .box h4
 {
     text-transform: uppercase;
-    color: rgba(4, 59, 65, 0.616);
+    color: black;
     font-weight: 500;
 }
 .skills .box .percent
@@ -221,7 +221,7 @@ color: #081921;
 .personal ul li
 {
     list-style: none;
-    color: #003147;
+    color:black;
     font-weight: 500;
     margin: 10px 0 ;
 }
